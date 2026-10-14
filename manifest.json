@@ -1,8 +1,12 @@
 {
-	"author": "Elrol",
-	"default_tile_mappings": {},
-	"levels": [],
-	"license": "N/A",
 	"name": "Example",
-	"version": "1.0.0"
+	"desc": "Just an example pack",
+	"id": "example",
+	"author": "Elrol",
+	"version": "1.0.0",
+	"min_game_version": "1.0.0",
+	"license": "N/A",
+	"dependencies": [],
+	"levels": [],
+	"default_tile_mappings": {}
 }
